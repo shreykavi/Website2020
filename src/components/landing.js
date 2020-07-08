@@ -60,7 +60,12 @@ const Landing = () => {
           </div>
         </Typing>
         <br></br>
-        <div onClick={scroll}>
+        <div
+          onClick={scroll}
+          style={{
+            cursor: "pointer",
+          }}
+        >
           <Img
             style={{
               margin: " 50px",

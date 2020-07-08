@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 
 import Landing from "../components/landing"
 import Experience from "../components/experiences"
+import Projects from "../components/projects"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
